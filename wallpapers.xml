@@ -3,25 +3,8 @@
     <wallpaper>
         <title>Android N 01</title>
         <author>Android</author>
-        <url>http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-3.jpg</url>
-    </wallpaper>
-    
-    <wallpaper>
-        <title>Android N 02</title>
-        <author>Android</author>
-        <url>http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-4.jpg</url>
-    </wallpaper>
-    
-    <wallpaper>
-        <title>Android N 03</title>
-        <author>Android</author>
-        <url>http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.jpg</url>
-    </wallpaper>
-    
-    <wallpaper>
-        <title>Android N 04</title>
-        <author>Android</author>
-        <url>http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg</url>
+        <thumb>https://raw.githubusercontent.com/marcoscgdev/wallah-resources/master/images/wall1_thumb.jpg</thumb>
+        <url>https://raw.githubusercontent.com/marcoscgdev/wallah-resources/master/images/wall1.jpg</url>
     </wallpaper>
     
 </wallpapers>
