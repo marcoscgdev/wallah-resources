@@ -1,6 +1,13 @@
 <wallpapers>
     
     <wallpaper>
+        <title>Android O 01</title>
+        <author>Android</author>
+        <thumb>https://cdn57.androidauthority.net/wp-content/uploads/2017/03/Android-O-stock-wallpaper-840x747.jpg</thumb>
+        <url>https://cdn57.androidauthority.net/wp-content/uploads/2017/03/Android-O-stock-wallpaper-840x747.jpg</url>
+    </wallpaper>
+    
+    <wallpaper>
         <title>Android N 01</title>
         <author>Android</author>
         <thumb>https://raw.githubusercontent.com/marcoscgdev/wallah-resources/master/images/wall1_thumb.jpg</thumb>
